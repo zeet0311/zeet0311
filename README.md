@@ -1,3 +1,5 @@
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/7eb7a9bd-d1c0-4c52-9055-4a4637de91b5)
+
 <h1 align="center">Hi 👋, I'm Zeet Limbachiya</h1>
 <h3 align="center">I’m a data enthusiast from India who loves exploring data, building dashboards, and finding stories hidden in numbers.</h3>
 <img align="right" alt="DataAnalyst" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZsNjZlaGZ0bnBwN2IyZTh3N3BldjBjejV0d215am8wb28ybHJ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
